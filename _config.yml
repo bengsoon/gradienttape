@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: GradientTape by Bengsoon
-description: Chronicles of learning machine learning for safekeeping as well as sharing.
+description: Chronicles of learning machine learning
 github_username: bengsoon
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "gradienttape"
